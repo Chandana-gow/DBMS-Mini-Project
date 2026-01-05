@@ -1,0 +1,6 @@
+# Ignore database connection file
+db_connection.php
+
+# Ignore editor & system files
+.vscode/
+.DS_Store
